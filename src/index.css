@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* baca2 di internet supaya tau cara pake directive2 nya */
+
+/* @layer components {
+	.card {
+		@apply flex flex-col gap-2 w-60;
+
+		& .card-title {
+			@apply text-lg;
+		}
+	}
+} */
